@@ -4,7 +4,7 @@ olarak alacağı ya da vereceği kalori miktarını
 hesaplayan bulanık mantık tabanına dayanan bir
 diyet takip sistemiydi.
 
-Proje Grup Üyeleri : Emre Alphan - 180201052, Poyraz Aktaş - 180201109, Orkun Alkan - 180201045 
+Proje Grup Üyeleri : Emre Alphan, Poyraz Aktaş , Orkun Alkan 
 
 Proje yazılırken Python3 dili kullanıldı.
 
