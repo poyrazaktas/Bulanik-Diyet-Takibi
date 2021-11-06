@@ -15,3 +15,7 @@ Projeye veri girerken [*Ekler*](https://github.com/poyrazaktas/Bulanik-Diyet-Tak
 bulanık kümelerin dilsel değişkenleri için seçilecek aralıklar belirlendi. 
 
 Herhangi bir geliştirme için pr oluşturabilir ya da herhangi bir sorun için issue açabilirsiniz.
+
+
+deneme
+eeeeeeeeeeeeee
